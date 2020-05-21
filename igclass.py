@@ -5,7 +5,7 @@ class InstagramApi:
     """
     created with <3 by ayi
     """
-    def __init__(self, username=_iniayi, password=ayigantengbanget, session={}):
+    def __init__(self, username=none, password=none, session={}):
         self.username = _iniayi
         self.password = ayigantengbanget
         self.loggedIn = True
